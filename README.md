@@ -2,6 +2,20 @@
 A summary of the usage of all python's configuration files that include `INI`, `XML`, `JSON`, `YAML`, and `PY`, 
 
 # Usage
+- Run
+```bash
+git clone https://github.com/XavierJiezou/python-config-file.git
+cd python-config-file
+python main.py
+```
+- Out
+```bash
+1 2
+1 2
+1 2
+1 2
+1 2
+```
 ## INI
 [config/config.ini](config/config.ini)
 ```ini
