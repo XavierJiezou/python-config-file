@@ -106,7 +106,7 @@ params = {
 }
 ```
 [example/test_py.py](example/test_py.py)
-```python`
+```python
 import sys
 sys.path.append('./')
 from config.config import params
